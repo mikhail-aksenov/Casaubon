@@ -1,4 +1,0 @@
-NUGET
-  remote: https://www.nuget.org/api/v2
-  specs:
-    EPPlus (4.0.5)

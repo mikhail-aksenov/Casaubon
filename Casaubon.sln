@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Casaubon", "Casaubon\Casaubon.fsproj", "{DF481D5C-7B3C-40EC-B3F6-2AF76CC506BF}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Casaubon", "src\Casaubon\Casaubon.fsproj", "{DF481D5C-7B3C-40EC-B3F6-2AF76CC506BF}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Casaubon.Tests", "Casaubon.Tests\Casaubon.Tests.fsproj", "{DC41244F-FDF8-4F72-A9DC-AC9171D95EC1}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Casaubon.Tests", "tests\Casaubon.Tests\Casaubon.Tests.fsproj", "{DC41244F-FDF8-4F72-A9DC-AC9171D95EC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,21 @@
+type file
+id Casaubon
+version 0.1.0.0
+description
+    A F#-friendly tiny wrapper for EPPlus lib.
+authors
+    Mikhail Aksenov
+
+summary
+    "A F#-friendly wrapper for the Reactive Extensions."
+licenseurl https://www.eclipse.org/legal/epl-v10.html
+projecturl https://github.com/mikhail-aksenov/Casaubon
+    
+    
+tags
+    F#, FSharp, Excel
+files
+    ../bin/Casaubon.dll ==> lib
+
+dependencies
+    EPPlus >= 4.0.0
